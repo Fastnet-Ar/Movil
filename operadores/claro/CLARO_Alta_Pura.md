@@ -134,21 +134,20 @@ La Isla Especialista envía por mail el pedido de Alta de Líneas al
 Ejecutivo de Cuenta, indicando:
 
 -   **Pedido:** LINEA NUEVA.
--   **Razón Social:** ISP GROUP.
--   **CUIT:** 30711130655.
+-   **Razón Social:** ISP NET LA SRL / ELEVATE SA.
+-   **CUIT:** 30-71674326-4/ 30-71179620-6 ISP .
 -   **Cantidad de líneas.**
 -   **Plan que llevará cada línea.**
 -   **Prefijo interurbano de cada línea.**
--   **Domicilio de entrega de SIM:** Av 25 de Mayo 385, (8503) Gral.
-    Conesa, Río Negro.
--   **Datos de la persona que recibirá el chip:**
-    -   Rodrigo Ivan Celis - DNI 40323408.
-    -   Facundo Bidegain - DNI 31.435.226.
-    -   stock@ispgroup.com.ar
+-   **Domicilio de entrega de SIM:** 
+  -   **Datos de la persona que recibirá el chip:**
+    -  
+    -   
+    -   
 -   **Mail de recepción de QR de eSIM:**
-    -   eduardo.coplo@ispgroup.com.ar
-    -   ramiro.reynoso@ispgroup.com.ar
-    -   brian.arena@ispgroup.com.ar
+    -   
+    -   
+    -   
 
 ### 8.4. Seguimiento de pedidos
 
