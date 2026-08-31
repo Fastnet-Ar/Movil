@@ -14,7 +14,7 @@ La solicitud puede realizarse en:
 
 ## 2. Consideraciones Generales
 
--   La línea se ofrece en paquete (Triple Play).
+-   La línea se ofrece en paquete (Internet + Movil).
 -   Sólo se ofrecen Líneas Control.
 -   Sólo se ofrecen Planes Pospagos.
 -   No hay requisito de permanencia para telefonía.
