@@ -29,57 +29,8 @@ La solicitud puede realizarse en:
 
 La demora de los envíos es de **hasta 5 días hábiles**.
 
-## 4. Sondeo comercial
 
-Se debe consultar principalmente el uso que el cliente le dará a la
-línea.
-
-### Trabajo
-
-Para vendedores, independientes y fleteros.
-
--   Necesitan un Plan Control intermedio/alto.
--   Es especialmente importante que incluya WhatsApp gratis con
-    llamadas/audios sin gastar datos.
-
-### Estudio
-
-Buscan gigas para:
-
--   Descargar PDF.
--   Usar Zoom.
--   Usar Classroom.
-
-### Juegos o Streaming
-
-Plan ideal:
-
--   Plan Control de gama alta en gigas.
-
-### Viaja al exterior
-
-Plan ideal:
-
--   Plan Control que incluya Roaming Movistar, con gigas y WhatsApp
-    gratis en países limítrofes.
-
-### Usuario analógico
-
-Perfil: **solo llamadas / WhatsApp**.
-
-Plan ideal:
-
--   Plan Control más económico del catálogo, con llamadas libres.
-
-### Perfil familiar
-
-Pregunta orientativa:
-
-> ¿Las líneas de tu casa, las pagás todas juntas vos?
-
-Se puede ofrecer portabilidad de todas las líneas.
-
-## 5. Requisitos
+## 4. Requisitos
 
 -   Si es o fue Cliente de ISP, deberá tener la Cuenta al día (sin
     deuda).
@@ -90,7 +41,7 @@ Se puede ofrecer portabilidad de todas las líneas.
 > **Pendiente:** el documento fuente indica que falta disponer del
 > contrato.
 
-## 6. Información que deberá proporcionar el usuario
+## 5. Información que deberá proporcionar el usuario
 
 -   Categoría de cliente: Residencial o Comercial.
 -   Tipo y número de documento (DNI o CUIT).
@@ -106,7 +57,7 @@ Referencia para códigos telefónicos:
 
 https://www.argentina.gob.ar/pais/codigo-telefonia
 
-## 7. Oficinas Comerciales y Call Center - Solicitudes
+## 6. Oficinas Comerciales y Call Center - Solicitudes
 
 -   Cargan los pedidos en la **Planilla de Gestión de Telefonía**.
 -   Envían por mail la documentación del usuario (fotocopias y contrato
@@ -126,7 +77,7 @@ La Isla Especialista:
 
 ### 8.2. Feedback
 
-Realiza feedback a Oficina Comercial y Call Center cuando corresponda.
+Realiza feedback a Oficina Comercial cuando corresponda.
 
 ### 8.3. Solicitud al Ejecutivo de Cuenta
 
